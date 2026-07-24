@@ -92,9 +92,7 @@ Customer_behavior_Analysis.ipynb      # Data cleaning & feature engineering (Pyt
 
 queries.sql                           # SQL business-question analysis
 
-Customer_Behavior_Analysis.pbix       # Power BI dashboard file
-
-Dashboard_Screenshot.PNG              # Dashboard preview image
+Customer_Behavior_Analysis.pbix       # Power BI dashboard file         
 
 README.md                             # Project documentation
 
