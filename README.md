@@ -85,14 +85,21 @@ Revenue & Sales by Age Group
 % of Customers by Subscription Status
  Repository Structure
 customer-behavior-analysis/
-│
-├── customer_shopping_behavior.csv        # Raw dataset
-├── Customer_behavior_Analysis.ipynb      # Data cleaning & feature engineering (Python)
-├── queries.sql                           # SQL business-question analysis
-├── Customer_Behavior_Analysis.pbix       # Power BI dashboard file
-├── Dashboard_Screenshot.PNG              # Dashboard preview image
-└── README.md                             # Project documentation
- How to Run This Project
+
+customer_shopping_behavior.csv        # Raw dataset
+
+Customer_behavior_Analysis.ipynb      # Data cleaning & feature engineering (Python)
+
+queries.sql                           # SQL business-question analysis
+
+Customer_Behavior_Analysis.pbix       # Power BI dashboard file
+
+Dashboard_Screenshot.PNG              # Dashboard preview image
+
+README.md                             # Project documentation
+
+How to Run This Project
+
 Clone the repository
 bash
    git clone https://github.com/<your-username>/customer-behavior-analysis.git
